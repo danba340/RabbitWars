@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RabbitWorld1()
+comment0.text=\n\ Constructs\ the\ first\ rabbitworld\n
+comment1.params=
+comment1.target=void\ populateWorld()
+comment1.text=\n\ Populates\ the\ rabbitworld\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ nextLevel()
+comment4.params=
+comment4.target=void\ updateCarrots()
+comment4.text=\n\ Displays\ a\ carroticon\ if\ the\ rabbit\ has\ a\ carrot\ to\ throw\n
+numComments=5

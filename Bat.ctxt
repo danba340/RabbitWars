@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=direction\ isSuperBat\ thrownBy
+comment0.target=Bat(boolean,\ boolean,\ greenfoot.Actor)
+comment0.text=\n\ Constructs\ a\ bat\n\ @param\ direction\ The\ parameter\ decides\ if\ the\ carrot\ is\ thrown\ to\ the\ left\ or\ the\ right\n\ @param\ isSuperBat\ decides\ if\ the\ Bat\ is\ a\ superbat\ or\ not\n\ @param\ thrownBy\ the\ Actor\ who\ threw\ the\ bat\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ removeAtCollision()
+comment2.text=\n\ Removes\ the\ bat\ at\ the\ edge\ of\ the\ world\n
+numComments=3

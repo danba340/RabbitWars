@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=direction\ isSuperRocket\ thrownBy
+comment0.target=Rocket(boolean,\ boolean,\ greenfoot.Actor)
+comment0.text=\n\ Constructs\ a\ rocket\n\ @param\ direction\ The\ parameter\ decides\ if\ the\ rocket\ is\ thrown\ to\ the\ left\ or\ the\ right\n\ @param\ isSuperRocket\ decides\ if\ the\ Rocket\ is\ a\ superrocket\ or\ not\n\ @param\ thrownBy\ the\ Actor\ who\ threw\ the\ rocket\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ removeAtCollision()
+comment2.text=\n\ Removes\ a\ rocket\ if\ it\ reaches\ the\ edge\ of\ the\ world\n
+comment3.params=
+comment3.target=void\ randomTurn()
+comment3.text=\n\ Randomizes\ the\ flight\ path\ of\ the\ rocket\n
+numComments=4

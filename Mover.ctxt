@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ stopAccel()
+comment0.text=\n\ Stops\ the\ acceleration\ on\ the\ X-axis\ if\ the\ actor\ is\ standing\ still\n
+comment1.params=
+comment1.target=void\ gravity()
+comment1.text=\n\ Implements\ gravity\n
+comment2.params=leftKey\ rightKey\ jumpKey
+comment2.target=void\ checkKeyPress(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ Enables\ the\ actor\ to\ move\ left\ and\ right\ and\ to\ jump.\n\ @param\ leftKey\ Sets\ which\ key\ that\ should\ move\ the\ actor\ to\ the\ left\ \n\ @param\ rightKey\ Sets\ which\ key\ that\ should\ move\ the\ actor\ to\ the\ right\ \n\ @param\ jumpKey\ Sets\ which\ key\ that\ should\ make\ the\ actor\ jump\n
+comment3.params=
+comment3.target=void\ onGround()
+comment3.text=\n\ Makes\ sure\ that\ actors\ cant\ go\ lower\ than\ ground\ level.\n
+comment4.params=direction
+comment4.target=void\ xMover(boolean)
+comment4.text=\n\ Moves\ an\ actor\ at\ a\ constant\ speed\ along\ the\ X-axis\n\ @param\ direction\ The\ direction\ on\ the\ X-axis\ which\ the\ actor\ should\ move\n
+comment5.params=gravity
+comment5.target=void\ setGravity(int)
+comment5.text=\n\ Sets\ the\ force\ of\ gravity\ \ \n\ @param\ gravity\ The\ passed\ in\ parameter\ sets\ gravity\ of\ the\ Mover.\n
+numComments=6

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RabbitWorld2()
+comment0.text=\n\ Constructs\ the\ second\ rabbitworld\n
+comment1.params=
+comment1.target=void\ populateWorld()
+comment1.text=\n\ Populates\ the\ rabbitworld\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ nextLevel()
+comment4.params=
+comment4.target=void\ updateBats()
+comment4.text=\n\ Displays\ a\ baticon\ if\ the\ rabbit\ has\ a\ bat\ to\ throw\n
+comment5.params=
+comment5.target=void\ lowerTargets()
+comment5.text=\n\ Lowers\ the\ target\ so\ that\ rabbits\ can\ reach\ it\ with\ a\ bat\n
+numComments=6

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ hittingTarget()
+comment0.text=\n\ Checks\ if\ the\ Projectile\ is\ hitting\ a\ target\ and\ makes\ the\ Rabbit\ who\ threw\ the\ Projectile\ invulnerable\n
+numComments=1

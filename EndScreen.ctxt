@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EndScreen()
+comment0.text=\n\ Constructs\ the\ Endscreen\n
+comment1.params=
+comment1.target=void\ populateWorld()
+comment1.text=\n\ Populates\ the\ Endscreen\ with\ the\ winner\ and\ text\n
+comment2.params=
+comment2.target=void\ nextLevel()
+comment2.text=\n\ Restarts\ the\ game\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4

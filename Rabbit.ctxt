@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ checkForDamage()
+comment0.text=\n\ Checks\ if\ the\ rabbit\ is\ being\ hit\ by\ a\ projectile\ and\ removes\ a\ life\ if\ it\ is.\n\ If\ it\ is\ a\ superprojectile\ it\ removes\ 2\ lives\n
+comment1.params=
+comment1.target=int\ getNumOfHearts()
+comment1.text=\n\ Gets\ the\ number\ of\ hearts.\n\ @return\ numOfHearts\ The\ number\ of\ hearts\ that\ the\ rabbit\ has.\n
+comment2.params=
+comment2.target=boolean\ hasThrowableObject()
+comment2.text=\n\ Returns\ true\ if\ the\ rabbit\ has\ an\ object\ to\ throw.\n\ @return\ hasThrowableObject\ the\ variable\ is\ true\ when\ the\ rabbit\ has\ an\ object\ to\ throw.\n
+comment3.params=
+comment3.target=boolean\ hasSuperProjectile()
+comment3.text=\n\ Returns\ true\ if\ the\ rabbit\ has\ a\ superprojectile\ to\ throw.\n
+comment4.params=
+comment4.target=void\ makeInvulnerable()
+comment4.text=\n\ Starts\ the\ time\ period\ in\ which\ the\ Rabbit\ is\ invulnerable\n
+numComments=5

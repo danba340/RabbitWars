@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RabbitWorld()
+comment0.text=\n\ Constructs\ the\ Rabbitworld\n
+comment1.params=
+comment1.target=void\ nextLevel()
+comment1.text=\n\ Go\ to\ next\ level.\n
+comment2.params=
+comment2.target=void\ updateHearts()
+comment2.text=\n\ Uppdates\ the\ hearts\ to\ display\ current\ rabbit\ lives\n
+comment3.params=
+comment3.target=void\ addTarget()
+comment3.text=\n\ Adds\ a\ Target\ in\ the\ air\ at\ a\ random\ X\ location\n
+comment4.params=
+comment4.target=void\ checkGameOver()
+comment4.text=\n\ Checks\ if\ round\ is\ over,\ gives\ one\ rabbit\ a\ win\ and\ starts\ the\ next\ level\n
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StartScreen()
+comment0.text=\n\ Constructs\ the\ startscreen\n
+comment1.params=
+comment1.target=void\ populateWorld()
+comment1.text=\n\ Populates\ the\ startscreen\ with\ text\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ nextLevel()
+numComments=4
